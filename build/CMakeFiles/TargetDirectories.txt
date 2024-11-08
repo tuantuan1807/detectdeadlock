@@ -1,0 +1,3 @@
+/home/tuantn1807/detectdeadlock/build/CMakeFiles/detectdeadlock.dir
+/home/tuantn1807/detectdeadlock/build/CMakeFiles/edit_cache.dir
+/home/tuantn1807/detectdeadlock/build/CMakeFiles/rebuild_cache.dir
